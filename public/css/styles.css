@@ -1,0 +1,37 @@
+.volverHome{
+    text-align: center;
+}
+
+body{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+    text-decoration: none;
+    color: cornflowerblue;    
+}
+h2, h3{
+    text-align: center;
+    text-decoration: none;
+    color: black   
+}
+.heroe, img{
+    display: block;
+    width: 300px;
+    height: 300px;
+    margin: auto;  
+}
+ul{
+    list-style: none;    
+    text-align: left;
+    text-decoration: none;
+}
+li{
+    margin: 10px;
+    padding: 5px;
+}
+p{
+    margin: 25px;
+    padding-bottom: 5px;
+}
+
